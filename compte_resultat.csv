@@ -1,0 +1,9 @@
+poste,montant_actuel,type
+Prix de vente unitaire,45,hypothese
+Coût variable unitaire,28,hypothese
+Charges fixes mensuelles,12000,hypothese
+Volume vendu (unités/mois),900,hypothese
+Marge unitaire,17,calcule
+Marge totale,15300,calcule
+Résultat net,3300,calcule
+Seuil de rentabilité (unités),706,calcule
